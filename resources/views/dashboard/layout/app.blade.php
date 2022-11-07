@@ -34,14 +34,28 @@
             }
         }
     </script>
+    <style>
+        .alt_sidenav {
+            background-color: #0e0e0e !important;
+            min-height: 700px;
+            padding-top: 50px;
+        }
+        .alt_dlinks {
+            display: block;
+            padding: 20px 0;
+            color: #ffd700;
+        }
+    </style>
 </head>
 
 <body style="font-family: 'Roboto', sans-serif;" oncontextmenu="return fals">
-<nav class="py-4" style="background-color: #105BAA;">
-    <a class="alt_logolink" href="{{ route('index') }}"><img src="{{ asset('logo-dark.png') }}" style="padding-left: 10px; margin-right: 5px; height: 30px;"><b style="color: white; font-size: 18px;">Trust Investments</b></a>
+<nav class="py-4" style="background-color: #020202;">
+    <a class="alt_logolink" href="{{ route('index') }}">
+        <img src="{{ asset('logo-dark.png') }}" style="padding-left: 10px; margin-right: 5px; height: 30px;">
+        <b style="color: white; font-size: 15px; padding-left: 10px">Trust Invest</b></a>
     <!-- LOG OUT -->
     <a href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();" style="color: white; background-color: #105BAA; font-size: 14px; font-weight: bold; float: right; margin-right: 20px; padding: 5px 10px; border-radius: 5px; border: 2px solid #fff;">Sign Out</a>
+                                                     document.getElementById('logout-form').submit();" style="color: white; background-color: #121212; font-size: 14px; font-weight: bold; float: right; margin-right: 20px; padding: 5px 10px; border-radius: 5px; border: 2px solid #fff;">Sign Out</a>
     <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
         @csrf
     </form>
@@ -65,8 +79,8 @@
 
 </section>
 
-<footer style="background-color: #105BAA; color: #ffffff;"  class="py-4 text-center">
-    <small class="block">&copy; 2013 - 2022 | Trust Investment Hub All Rights Reserved.</small>
+<footer style="background-color: #050505; color: #ffffff;" class="py-4 text-center">
+    <small class="block">&copy; 2013 - 2022 | Trust Investment All Rights Reserved.</small>
 </footer>
 <script src="{{ asset('LIVECHAT.js') }}" async></script>
 {{--<script src="//code.tidio.co/my8cd4zmzw6raeokztfdbxm9e8vtewlu.js" async></script>--}}

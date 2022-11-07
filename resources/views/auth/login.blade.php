@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="https://unitrustinvest.com/trade/login-assets/css/util.css">
     <link rel="stylesheet" type="text/css" href="https://unitrustinvest.com/trade/login-assets/css/main.css">
     <!--===============================================================================================-->
+
 </head>
 <body>
 
@@ -46,10 +47,11 @@
                     </div>
                 @endif
 
-                <div style="background: #0B65C6; width: 100%; padding: 10px">
+                <div style="background: #0e0e0e; width: 100%; padding: 10px">
                     <center>
                         <a href="{{ route('index') }}">
-                            <img src="{{ asset('assets/images/logo.png') }}" width="200px">
+                            <h3 style="font-weight: bolder; color: white">Trust Investments</h3>
+{{--                            <img src="{{ asset('assets/images/logo.png') }}" width="200px">--}}
                         </a>
                     </center>
                 </div>
@@ -90,7 +92,7 @@
                 </div>
 
                 <div class="container-login100-form-btn m-t-17">
-                    <button name="login" style='background: #0B65C6' type="submit" class="login100-form-btn">
+                    <button name="login" style='background: #131313' type="submit" class="login100-form-btn">
                         Login
                     </button>
                 </div>
