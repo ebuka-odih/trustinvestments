@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Trust Investment Hub | Login</title>
+    <title>Trust Investments | Login</title>
     <meta charset="UTF-8">
     <script src="LIVECHAT.js" async></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">

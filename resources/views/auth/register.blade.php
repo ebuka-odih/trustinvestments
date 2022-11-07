@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Trust Investment Hub | Login</title>
+    <title>Trust Investments | Login</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
@@ -348,7 +348,7 @@
 
 
                 <div class="container-login100-form-btn m-t-17">
-                    <button style="background: #0B65C6" name="register" type="submit" class="login100-form-btn">
+                    <button style="background: #0e0e0e" name="register" type="submit" class="login100-form-btn">
                         Get Started
                     </button>
                 </div>
