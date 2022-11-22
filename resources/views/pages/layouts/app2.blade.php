@@ -251,7 +251,7 @@
             left: 0;
             right: 0;
             margin: 0;
-            background-color: #0b65c6;
+            background-color: #0e9a8b;
             color: white;
             border: 0;
             box-shadow: none;
