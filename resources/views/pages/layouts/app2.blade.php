@@ -298,7 +298,7 @@
                 <div class="newmenuholder row">
                     <div class="col-lg-2 logoholder col-md-6  col-6">
                         <a href="{{ route('homepage') }}">
-                           <h4 style="font-weight: bolder;color: white">Trust Investmentsco</h4>
+                           <h5 style="font-weight: bolder;color: white">Trust Investmentsco</h5>
                         </a>
                     </div>
                     <div class="col-lg-5 menu menu21 ">
