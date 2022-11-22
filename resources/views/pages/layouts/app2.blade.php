@@ -271,7 +271,7 @@
         }
         .progress-bar {
             height: 8px;
-            background: #0b65c6;
+            background: #0e9a8b;
             width: 0%;
         }
     </style>
