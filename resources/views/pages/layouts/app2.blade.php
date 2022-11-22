@@ -297,7 +297,10 @@
             <div class="container">
                 <div class="newmenuholder row">
                     <div class="col-lg-2 logoholder col-md-6  col-6">
-                        <a href="{{ route('homepage') }}"><img width="120" height="38" src="images/logo.png" alt="Trust Investmentsco Logo" class="logo desktop-logo" title="Trust Investmentsco Logo" data-lazy-src="images/logo.png" /><noscript><img width="120" height="38" src="images/logo.png" alt="Trust Investmentsco Logo" class="logo desktop-logo" title="Trust Investmentsco Logo" /></noscript></a>          </div>
+                        <a href="{{ route('homepage') }}">
+                           <h4 style="font-weight: bolder;color: white">Trust Investmentsco</h4>
+                        </a>
+                    </div>
                     <div class="col-lg-5 menu menu21 ">
                         <div class="menu-new-menu-container"><ul id="menu-new-menu" class="menu"><li id="menu-item-3160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3160"><a>Markets</a>
                                     <ul class="sub-menu">
