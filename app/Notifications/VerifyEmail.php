@@ -50,7 +50,7 @@ class VerifyEmail extends Notification
         }
 
         return (new MailMessage)
-            ->subject(Lang::get('Welcome to Trust Investment Hub'))
+            ->subject(Lang::get('Welcome to Trust Investmentsco'))
             ->line(Lang::get('Note: You are required to fund your account within the next 48 hours for account activation'));
 
     }

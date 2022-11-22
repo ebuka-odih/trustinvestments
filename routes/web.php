@@ -13,10 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'pages.index')->name('index');
-Route::view('/terms-of-service', 'pages.terms')->name('terms');
-Route::view('/privacy-and-policies', 'pages.privacy')->name('privacy');
-Route::view('admin/login', 'auth.admin');
+Route::view('/', 'pages.index')->name('homepage');
+Route::view('forex_trading', 'pages.forex_trading')->name('forex_trading');
+Route::view('crypto', 'pages.crypto')->name('crypto');
+Route::view('spreads', 'pages.spreads')->name('spreads');
+Route::view('swap', 'pages.swap')->name('swap');
+Route::view('account_type', 'pages.account_type')->name('account_type');
+Route::view('meta4', 'pages.meta4')->name('meta4');
+Route::view('meta5', 'pages.meta5')->name('meta5');
+Route::view('capital', 'pages.capital')->name('capital');
+Route::view('fxblue', 'pages.fxblue')->name('fxblue');
+
+Route::view('about', 'pages.about')->name('about');
+Route::view('plans', 'pages.plans')->name('plans');
+
 
 Auth::routes(['verify'=> true]);
 //include 'admin.php';
