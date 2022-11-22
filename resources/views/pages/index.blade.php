@@ -2,7 +2,7 @@
 @section('content')
     <style>
         .trustwallet{
-            background-image: linear-gradient(to bottom right,#0b65c6 50%,#105BAA 100%);
+            background-image: linear-gradient(to bottom right,#0bc671 50%,#105BAA 100%);
             color: #fff
         }
         .row2 {
