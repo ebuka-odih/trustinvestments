@@ -50,7 +50,7 @@
 
 <body style="font-family: 'Roboto', sans-serif;" oncontextmenu="return fals">
 <nav class="py-4" style="background-color: #020202;">
-    <a class="alt_logolink" href="{{ route('index') }}">
+    <a class="alt_logolink" href="{{ route('homepage') }}">
         <img src="{{ asset('logo-dark.png') }}" style="padding-left: 10px; margin-right: 5px; height: 30px;">
         <b style="color: white; font-size: 15px; padding-left: 10px">Trust Invest</b></a>
     <!-- LOG OUT -->
