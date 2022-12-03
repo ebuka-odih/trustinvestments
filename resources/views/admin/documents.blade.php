@@ -13,9 +13,6 @@
 
     <div class="row">
 
-
-
-
         <div class="col-md-12">
             <div class="box box-solid bg-dark">
                 <div class="box-header with-border">
@@ -104,22 +101,13 @@
                     </div>
                 </div>
                 <!-- /.box-body -->
-
+                
             </div>
             <!-- /.box -->
         </div>
 
-
-
-
-
     </div>
     <!-- End Row -->
-
-
-
-
-
 
 </section>
 

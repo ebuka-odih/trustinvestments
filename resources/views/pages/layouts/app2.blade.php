@@ -443,13 +443,13 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <section id="nav_menu-11" class="widget widget_nav_menu"><h4 class="widget-title">About Us</h4><div class="menu-top-menu-about-us-container"><ul id="menu-top-menu-about-us" class="menu">
-                                <li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="why_us.html">Who We Are</a></li>
-                                <li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2064"><a href="legal_policy.html">Legal Documents</a></li>
+                                <li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="{{ route('why_us') }}">Who We Are</a></li>
+                                <li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2064"><a href="{{ route('legal_policy') }}">Legal Documents</a></li>
 
                             </ul></div></section><section id="nav_menu-18" class="widget widget_nav_menu"><h4 class="widget-title">Partnerships</h4><div class="menu-top-menu-partnerships-container">
                             <ul id="menu-top-menu-partnerships" class="menu">
-                                <li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="partnerships.html">Overview</a></li>
-                                <li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="broker.html">Introducing Broker</a></li>
+                                <li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="{{ route('partnerships') }}">Overview</a></li>
+                                <li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="{{ route('broker') }}">Introducing Broker</a></li>
 
                             </ul></div></section>                    </div>
 
@@ -464,12 +464,10 @@
                     <section id="nav_menu-14" class="widget widget_nav_menu"><h4 class="widget-title">Client Support</h4><div class="menu-top-menu-client-support-container"><ul id="menu-top-menu-client-support" class="menu">
 
 
-                                <li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="faqs.html">FAQs</a></li>
-                                <li id="menu-item-1039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1039"><a href="contact.html">Contact Us</a></li>
-                            </ul></div></section><section id="nav_menu-15" class="widget widget_nav_menu"><h4 class="widget-title">Analysis &#038; Education</h4><div class="menu-top-menu-analysis-container"><ul id="menu-top-menu-analysis" class="menu"><li id="menu-item-554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="market_analysis.html">Analysis Overview</a></li>
-                                <li id="menu-item-555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-555"><a href="cfd_news.html">CFD News</a></li>
+                                <li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="{{ route('faqs') }}">FAQs</a></li>
+                            </ul></div></section>
 
-                            </ul></div></section>                    </div>
+                </div>
 
 
                 <div class="col-lg-3 col-sm-6 footer-4">
@@ -500,7 +498,7 @@
                     <section class="widget widget_text">
                         <h4 class="widget-title">Office</h4>
                         <div class="textwidget ip_address">
-                            <span class="vanuatu_address"><p>      United States Of America</p>
+                            <span class="vanuatu_address"><p>1226 Broadway, New York, NY 10001, United States</p>
 </span>
 
                         </div>

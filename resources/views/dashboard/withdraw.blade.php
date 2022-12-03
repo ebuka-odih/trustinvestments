@@ -46,6 +46,7 @@
                     <option value="bank_withdraw">Bank Transfer</option>
                 </select>
                 <br>
+                
 
                 <div hidden="" id="bank_withdraw_form">
                     <div class="alert alert-info" role="alert">
