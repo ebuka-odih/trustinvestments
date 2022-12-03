@@ -355,27 +355,26 @@
                                     <ul class="sub-menu">
                                         <li id="menu-item-3208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3208"><a>About</a>
                                             <ul class="sub-menu">
-                                                <li id="menu-item-4076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4076"><a href="why_us.html">Why Trust Investmentsco</a></li>
-                                                <li id="menu-item-3205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3205"><a href="legal_policy.html">Legal Documents</a></li>
+                                                <li id="menu-item-4076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4076"><a href="{{ route('why_us') }}">Why Trust Investmentsco</a></li>
+                                                <li id="menu-item-3205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3205"><a href="{{ route('legal_policy') }}">Legal Documents</a></li>
 
                                             </ul>
                                         </li>
                                         <li id="menu-item-3209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3209"><a>Partnerships</a>
                                             <ul class="sub-menu">
-                                                <li id="menu-item-3328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3328"><a href="partnerships.html">Overview</a></li>
-                                                <li id="menu-item-3329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3329"><a href="broker.html">Introducing Broker</a></li>
+                                                <li id="menu-item-3328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3328"><a href="{{ route('partnerships') }}">Overview</a></li>
+                                                <li id="menu-item-3329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3329"><a href="{{ route('broker') }}">Introducing Broker</a></li>
 
                                             </ul>
                                         </li>
                                         <li id="menu-item-3210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3210"><a>Client Support</a>
                                             <ul class="sub-menu">
 
-                                                <li id="menu-item-3334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3334"><a href="faqs.html">FAQs</a></li>
-                                                <li id="menu-item-3338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3338"><a href="contact.html">Contact Us</a></li>
+                                                <li id="menu-item-3334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3334"><a href="{{ route('faqs') }}">FAQs</a></li>
                                             </ul>
                                         </li>
-                                        <li id="menu-item-3190" class="green_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-3190"><a href="register.html">Create Account</a></li>
-                                        <li id="menu-item-3187" class="blue_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-3187"><a href="login.html">Login</a></li>
+                                        <li id="menu-item-3190" class="green_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-3190"><a href="{{ route('register') }}">Create Account</a></li>
+                                        <li id="menu-item-3187" class="blue_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-3187"><a href="{{ route('login') }}">Login</a></li>
                                     </ul>
                                 </li>
                             </ul></div>
