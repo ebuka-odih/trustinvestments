@@ -49,7 +49,7 @@
 
                 <div style="background: #0e0e0e; width: 100%; padding: 10px">
                     <center>
-                        <a href="{{ route('index') }}">
+                        <a href="{{ route('homepage') }}">
                             <h3 style="font-weight: bolder; color: white">Trust Investments</h3>
 {{--                            <img src="{{ asset('assets/images/logo.png') }}" width="200px">--}}
                         </a>
