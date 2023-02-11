@@ -4,6 +4,8 @@
 <head>
     <title>Trust Investments | Login</title>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <script src="LIVECHAT.js" async></script>
     <link rel="stylesheet" type="text/css" href="{{ asset('login-assets/vendor/bootstrap/css/bootstrap.min.css') }}">
     <!--===============================================================================================-->

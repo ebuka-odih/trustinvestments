@@ -50,8 +50,6 @@ class UserController extends Controller
         $user->save();
         return redirect()->back()->with('subtract', "Equity Subtract Successfully");
 
-
-
     }
 
     public function deleteUser($id)

@@ -19,7 +19,7 @@
                     <img style="width: 70px;" src="{{ asset('images/bonus.png') }}" alt="bonus"/><p id="bonus"><b style="font-size: 15px; color: #105BAA;">$@convert(auth()->user()->bonus)</b><br/> BONUS</p>
                 </div>
                 <div class="col-lg-4 col-6 right_display">
-                    <img style="width: 65px;" src="{{ asset('images/cinvest.png') }}" alt="cinvest"/><p id="cinvest"><b style="font-size: 15px; color: #105BAA;">$@convert(auth()->user()->profit)</b><br/> INVESTMENT</p>
+                    <img style="width: 65px;" src="{{ asset('images/cinvest.png') }}" alt="cinvest"/><p id="cinvest"><b style="font-size: 15px; color: #105BAA;">$@convert(auth()->user()->investment)</b><br/> INVESTMENT</p>
                 </div>
                 <div class="col-lg-4 col-6 right_display">
                     <img style="width: 70px;" src="{{ asset('images/profit.png') }}" alt="profit"/><p id="profit"><b style="font-size: 15px; color: #105BAA;">$@convert(auth()->user()->profit)</b><br/> RISING PROFIT</p>
