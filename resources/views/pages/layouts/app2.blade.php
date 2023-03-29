@@ -276,6 +276,9 @@
         }
     </style>
 
+    <!-- TrustBox script -->
+    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+    <!-- End TrustBox script -->
 </head>
 <body class="home page-template page-template-page-templates page-template-template-home page-template-page-templatestemplate-home-php page page-id-5 ">
 <div class="header1">
