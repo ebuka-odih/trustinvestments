@@ -42,6 +42,7 @@
                 <a href="https://www.trustpilot.com/review/trustinvestmentsco.com" target="_blank" rel="noopener">Trustpilot</a>
             </div>
             <!-- End TrustBox widget -->
+            <br>
             <div class="container">
                 <h2 class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s" style="animation-delay: 0.2s; opacity: 1;">Why trade with us</h2>
                 <div class="description animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s" style="animation-delay: 0.2s; opacity: 1;">
