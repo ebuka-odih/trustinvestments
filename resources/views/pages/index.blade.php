@@ -37,10 +37,14 @@
         </section>
 
         <section class="why-trade-with-us clearfix "  >
+            <h4>OUR REVIEWS</h4>
             <!-- TrustBox widget - Micro Review Count -->
             <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="642497bc2e0c1ea51782e18e" data-style-height="24px" data-style-width="100%" data-theme="light" data-min-review-count="10" data-without-reviews-preferred-string-id="1" data-style-alignment="center">
                 <a href="https://www.trustpilot.com/review/trustinvestmentsco.com" target="_blank" rel="noopener">Trustpilot</a>
             </div>
+            <br><br>
+            <div class="stjr-review-tab"></div>
+
             <!-- End TrustBox widget -->
             <br>
             <div class="container">
