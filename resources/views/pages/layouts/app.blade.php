@@ -160,7 +160,7 @@
     <div class="sidebar-content">
         <h3>trustinvestmenthubs.com</h3>
         <p>Trust Investmentsco is an automated platform for crypto & forex trading that is focused on delivering stress-free services to its customers by using our team of professional brokers to perform trading options at their best.</p>
-        <p class="contact-info">info@trustinvestmenthubs.com <br /> +1(501)3934352</p>
+        <p class="contact-info">info@trustinvestmenthubs.com <br /> +1(469)2857559</p>
         <br><a href="https://t.me/Customer247service">Telegram</a>
         <!-- /.contact-info -->
         <div class="social">
@@ -184,7 +184,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+1(501)3934352", // WhatsApp number
+            whatsapp: "+1(469)2857559", // WhatsApp number
             call_to_action: "Message us", // Call to action
             button_color: "#FF6550", // Color of button
             position: "left", // Position may be 'right' or 'left'
